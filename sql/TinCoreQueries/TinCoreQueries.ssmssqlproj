@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TinCoreQueries">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-0O2V27J:DESKTOP-0O2V27J\Huzaifa">
+          <Created>2019-04-07T16:08:24.2534857+05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-0O2V27J</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>ProManDB</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="attribute.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>attribute.sql</FullPath>
+        </FileNode>
+        <FileNode Name="category_review.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>category_review.sql</FullPath>
+        </FileNode>
+        <FileNode Name="category_review_detail.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>category_review_detail.sql</FullPath>
+        </FileNode>
+        <FileNode Name="cities.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>cities.sql</FullPath>
+        </FileNode>
+        <FileNode Name="classification.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>classification.sql</FullPath>
+        </FileNode>
+        <FileNode Name="classification_type.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>classification_type.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Countries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Countries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity_attribute_relation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity_attribute_relation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity_contact.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity_contact.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity_list.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity_list.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity_list_item.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity_list_item.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity_menu.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity_menu.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity_subscription.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity_subscription.sql</FullPath>
+        </FileNode>
+        <FileNode Name="entity_subscription_tracking.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>entity_subscription_tracking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="location_category_relation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>location_category_relation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="location_entity_relation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>location_entity_relation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="location_program.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>location_program.sql</FullPath>
+        </FileNode>
+        <FileNode Name="location_type.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>location_type.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LocationTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LocationTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="misc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>misc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Neighbourhood.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Neighbourhood.sql</FullPath>
+        </FileNode>
+        <FileNode Name="page_block.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>page_block.sql</FullPath>
+        </FileNode>
+        <FileNode Name="profile_attribute.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>profile_attribute.sql</FullPath>
+        </FileNode>
+        <FileNode Name="profile_review.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>profile_review.sql</FullPath>
+        </FileNode>
+        <FileNode Name="profile_section.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>profile_section.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RegionsTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RegionsTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="relation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>relation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="relation_entity_relation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>relation_entity_relation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TableToPOCO.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TableToPOCO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TinTracking.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TinTracking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="v_classification.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>v_classification.sql</FullPath>
+        </FileNode>
+        <FileNode Name="v_location.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0O2V27J:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0O2V27J</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>v_location.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
